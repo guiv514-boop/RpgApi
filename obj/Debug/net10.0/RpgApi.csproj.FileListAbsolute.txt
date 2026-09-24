@@ -1,0 +1,8 @@
+D:\Prova Prática\RpgApi\obj\Debug\net10.0\RpgApi.csproj.AssemblyReference.cache
+D:\Prova Prática\RpgApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Prova Prática\RpgApi\obj\Debug\net10.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prova Prática\RpgApi\obj\Debug\net10.0\RpgApi.AssemblyInfoInputs.cache
+D:\Prova Prática\RpgApi\obj\Debug\net10.0\RpgApi.AssemblyInfo.cs
+D:\Prova Prática\RpgApi\obj\Debug\net10.0\RpgApi.csproj.CoreCompileInputs.cache
+D:\Prova Prática\RpgApi\obj\Debug\net10.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Prova Prática\RpgApi\obj\Debug\net10.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
